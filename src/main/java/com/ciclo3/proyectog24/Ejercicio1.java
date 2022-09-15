@@ -11,6 +11,7 @@ public class Ejercicio1 {
     public void metodo() {
         System.out.println("Logica metodo"); 
         System.out.println("Agregando Logica"); 
+        System.out.println("Agregando en metodo 1");
     }
     
 }
